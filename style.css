@@ -1,0 +1,26 @@
+body {
+  background-color: #ddd;
+}
+
+.navbar {
+    min-height: 70px;
+}
+
+.container {
+        padding-top: 10px;
+}
+
+.nav hr {
+    height: 0.4rem;
+    margin: 0;
+    background: #3ca5c3;
+    border: none;
+    transition: .3s ease-in-out;
+}
+
+
+.navbar-nav > li > a {
+    font-weight: 600;
+    letter-spacing: 1.2px;
+}
+
